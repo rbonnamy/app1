@@ -1,4 +1,4 @@
-Quel bazar
+Quel bazar ce fichier !!!!
 17:41:28.037 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization started
 17:41:28.051 [localhost-startStop-1] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Tue Jan 28 17:41:28 CET 2020]; root of context hierarchy
 17:41:28.176 [localhost-startStop-1] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.dgn.init.WebAppConfig]
